@@ -1,7 +1,7 @@
 # chatgpt-java-system
 
 ## 介绍
-SpringBoot+Vue+Uniapp搭建的Java版本的ChatGPT系统，小程序和H5包含智能Ai对话、精美Ai壁纸、知识付费商城、积分、会员、分享等公功能；后端管理包括系统管理、智能对话、基本设置、系统监控、代码生成、壁纸管理和商品管理。前后端分离全部100%开源，方便二开，为开发者赋能，助力企业发展、国家富强，致力于打造最受欢迎的项目！需要全套源码的**联系客服vx：eden0101**
+SpringBoot+Vue+Uniapp搭建的Java版本的ChatGPT智能Ai对话系统，小程序和H5包含智能Ai对话、精美Ai壁纸、知识付费商城、积分、会员、分享等公功能；后端管理包括系统管理、智能对话、基本设置、系统监控、代码生成、壁纸管理和商品管理。前后端分离全部100%开源，方便二开，为开发者赋能，助力企业发展、国家富强，致力于打造最受欢迎的项目！需要全套源码的**联系客服微信：eden0101**
 
 ##  页面展示
 
@@ -26,6 +26,12 @@ SpringBoot+Vue+Uniapp搭建的Java版本的ChatGPT系统，小程序和H5包含�
 ![Snipaste_2023-06-24_12-33-05](https://xiebiao-img.oss-cn-hangzhou.aliyuncs.com/img/202306241413765.jpg)
 
 ## 二、小程序/H5
+
+打开微信搜索小程序名称：**Ai万能精灵**
+
+或扫描下方小程序二维码即可体验
+
+![chatai](README.assets/chatai.jpg)
 
 ### 首页
 
@@ -70,8 +76,6 @@ SpringBoot+Vue+Uniapp搭建的Java版本的ChatGPT系统，小程序和H5包含�
 ![Snipaste_2023-06-24_13-08-17](https://xiebiao-img.oss-cn-hangzhou.aliyuncs.com/img/202306241414735.jpg)
 
 ![Snipaste_2023-06-24_13-08-42](https://xiebiao-img.oss-cn-hangzhou.aliyuncs.com/img/202306241414452.jpg)
-
-![](https://xiebiao-img.oss-cn-hangzhou.aliyuncs.com/img/202306241414452.jpg)
 
 ## 三、联系我们
 
