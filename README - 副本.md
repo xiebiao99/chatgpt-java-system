@@ -7,17 +7,17 @@ SpringBoot+Vue+Uniapp搭建的Java版本的ChatGPT智能Ai对话系统，小程�
 
 ## 一、管理后台
 
-![image-20230624143344140](README.assets/202306241433684.png)
+![image-20230624143344140](https://xiebiao-img.oss-cn-hangzhou.aliyuncs.com/img/202306241433684.png)
 
-![Snipaste_2023-06-24_12-29-54](README.assets/202306241412397.jpg)
+![Snipaste_2023-06-24_12-29-54](https://xiebiao-img.oss-cn-hangzhou.aliyuncs.com/img/202306241412397.jpg)
 
-![Snipaste_2023-06-24_12-30-17](README.assets/202306241412363.jpg)
+![Snipaste_2023-06-24_12-30-17](https://xiebiao-img.oss-cn-hangzhou.aliyuncs.com/img/202306241412363.jpg)
 
-![Snipaste_2023-06-24_12-30-49](README.assets/202306241412481.jpg)
+![Snipaste_2023-06-24_12-30-49](https://xiebiao-img.oss-cn-hangzhou.aliyuncs.com/img/202306241412481.jpg)
 
-![Snipaste_2023-06-24_12-31-29](README.assets/202306241412499.jpg)
+![Snipaste_2023-06-24_12-31-29](https://xiebiao-img.oss-cn-hangzhou.aliyuncs.com/img/202306241412499.jpg)
 
-![Snipaste_2023-06-24_12-31-59](README.assets/202306241412844.jpg)
+![Snipaste_2023-06-24_12-31-59](https://xiebiao-img.oss-cn-hangzhou.aliyuncs.com/img/202306241412844.jpg)
 
 ![Snipaste_2023-06-24_12-32-18](https://xiebiao-img.oss-cn-hangzhou.aliyuncs.com/img/202306241412997.jpg)
 
