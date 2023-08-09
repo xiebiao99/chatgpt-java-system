@@ -83,6 +83,10 @@ SpringBoot+Vue+Uniapp搭建的Java版本的ChatGPT智能Ai对话系统，小程�
 
 ![Snipaste_2023-07-04_23-29-51](README.assets/Snipaste_2023-07-04_23-29-51.jpg)
 
+![](README.assets/image-20230809230249954-169159337228114.png)
+
+![image-20230809230345890](README.assets/image-20230809230345890-169159342750616.png)
+
 ### 基本设置
 
 ![Snipaste_2023-07-04_23-30-20](README.assets/Snipaste_2023-07-04_23-30-20.jpg)
